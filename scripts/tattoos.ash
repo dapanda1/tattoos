@@ -9,6 +9,7 @@
 ##Updated to 159 by johnnyponny (added 149-150, 159-160) 2021-09-30
 ##Updated to 159 by johnnyponny (added 151-152) 2022-03-02
 ##Updated to 162 by johnnyponny (added 161-163) 2023-01-06
+##Updated to 174 by dapanda - brought to github
 
 record tatdata{
 	string gear;
