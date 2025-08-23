@@ -1,4 +1,4 @@
-# tattoos.ash
+# tattoos
 Wears all your outfits and visits the pretentious artist for the tattoo
 
 Make sure you unlock the artist first
