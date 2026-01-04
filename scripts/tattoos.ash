@@ -392,7 +392,7 @@ void get_tats(int a, string tatty){
 void get_tats_main(){
 string tatty = visit_url("account_tattoos.php");
 	int a = 1;
-	while(a < 175){
+	while(a < 187){
 		get_tats(a, tatty);
 		a = a + 1;
 	}
