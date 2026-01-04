@@ -194,7 +194,10 @@ void load_table(){
 	Tat[172].gear = "Governor's Daughter's Fancy Finery";
 	Tat[173].gear = "Wet Wear";
 	Tat[174].gear = "Axis Uniform";
-	
+	Tat[181].gear = "Angelbone Vestments";
+	Tat[182].gear = "Devilbone Prison";
+	Tat[187].gear = "Scorched Skeleton Suit";
+
 ##Tat 1-26 added by nightmist
 ##Tat 28-35 and a few file names changed/added by Hippymon
 ##Updated to 127 by BDrag0n
@@ -369,6 +372,9 @@ void load_table(){
 	Tat[ 172].Img = "sigils.gif";
 	Tat[ 173].Img = "wetoutfittat.gif";
 	Tat[ 174].Img = "axistat.gif";
+	Tat[ 181].Img = "Abonetat.gif";
+	Tat[ 182].Img = "Dbonetat.gif";
+	Tat[ 187].Img = "Sskeltat.gif";
 }
 
 void get_tats(int a, string tatty){
